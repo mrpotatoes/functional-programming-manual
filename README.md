@@ -1,2 +1,2 @@
-# functional-programming-manual
-My functional programming manual. In JavaScript
+# Functional Programming Manual
+My functional programming manual. In JavaScript.
