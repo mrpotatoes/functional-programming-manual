@@ -1,7 +1,7 @@
 # Functional Programming Manual
 My functional programming manual. In JavaScript.
 
-Taken verbatim [from](https://github.com/haskellcamargo/js-real-world-functional-programming) until I add more of my personal thoughts to it.
+Taken verbatim from [Marcelo Camargo's Real world functional programming in JS](https://github.com/haskellcamargo/js-real-world-functional-programming) until I add more of my personal thoughts to it.
 
 Tips and guidelines for scalable and easily maintainable code bases!
 
